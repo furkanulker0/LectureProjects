@@ -1,0 +1,16 @@
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\CelFahr\CelFahr\bin\Debug\net6.0-windows\CelFahr.exe
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\CelFahr\CelFahr\bin\Debug\net6.0-windows\CelFahr.deps.json
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\CelFahr\CelFahr\bin\Debug\net6.0-windows\CelFahr.runtimeconfig.json
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\CelFahr\CelFahr\bin\Debug\net6.0-windows\CelFahr.dll
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\CelFahr\CelFahr\bin\Debug\net6.0-windows\CelFahr.pdb
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\CelFahr\CelFahr\obj\Debug\net6.0-windows\CelFahr.Form1.resources
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\CelFahr\CelFahr\obj\Debug\net6.0-windows\CelFahr.csproj.GenerateResource.cache
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\CelFahr\CelFahr\obj\Debug\net6.0-windows\CelFahr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\CelFahr\CelFahr\obj\Debug\net6.0-windows\CelFahr.AssemblyInfoInputs.cache
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\CelFahr\CelFahr\obj\Debug\net6.0-windows\CelFahr.AssemblyInfo.cs
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\CelFahr\CelFahr\obj\Debug\net6.0-windows\CelFahr.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\CelFahr\CelFahr\obj\Debug\net6.0-windows\CelFahr.dll
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\CelFahr\CelFahr\obj\Debug\net6.0-windows\refint\CelFahr.dll
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\CelFahr\CelFahr\obj\Debug\net6.0-windows\CelFahr.pdb
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\CelFahr\CelFahr\obj\Debug\net6.0-windows\CelFahr.genruntimeconfig.cache
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\CelFahr\CelFahr\obj\Debug\net6.0-windows\ref\CelFahr.dll
