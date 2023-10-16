@@ -1,0 +1,16 @@
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\ders3\ders3\bin\Debug\net6.0-windows\ders3.exe
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\ders3\ders3\bin\Debug\net6.0-windows\ders3.deps.json
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\ders3\ders3\bin\Debug\net6.0-windows\ders3.runtimeconfig.json
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\ders3\ders3\bin\Debug\net6.0-windows\ders3.dll
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\ders3\ders3\bin\Debug\net6.0-windows\ders3.pdb
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\ders3\ders3\obj\Debug\net6.0-windows\ders3.Form1.resources
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\ders3\ders3\obj\Debug\net6.0-windows\ders3.csproj.GenerateResource.cache
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\ders3\ders3\obj\Debug\net6.0-windows\ders3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\ders3\ders3\obj\Debug\net6.0-windows\ders3.AssemblyInfoInputs.cache
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\ders3\ders3\obj\Debug\net6.0-windows\ders3.AssemblyInfo.cs
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\ders3\ders3\obj\Debug\net6.0-windows\ders3.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\ders3\ders3\obj\Debug\net6.0-windows\ders3.dll
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\ders3\ders3\obj\Debug\net6.0-windows\refint\ders3.dll
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\ders3\ders3\obj\Debug\net6.0-windows\ders3.pdb
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\ders3\ders3\obj\Debug\net6.0-windows\ders3.genruntimeconfig.cache
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\ders3\ders3\obj\Debug\net6.0-windows\ref\ders3.dll
