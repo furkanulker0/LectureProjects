@@ -1,0 +1,17 @@
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.exe
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.deps.json
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.runtimeconfig.json
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.dll
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.pdb
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.Form1.resources
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.csproj.GenerateResource.cache
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.AssemblyInfoInputs.cache
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.AssemblyInfo.cs
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.dll
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\Calculator\Calculator\obj\Debug\net6.0-windows\refint\Calculator.dll
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.pdb
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.genruntimeconfig.cache
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\Calculator\Calculator\obj\Debug\net6.0-windows\ref\Calculator.dll
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.Properties.Resources.resources

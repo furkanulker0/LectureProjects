@@ -1,0 +1,16 @@
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\FractionAdder\FractionAdder\bin\Debug\net6.0-windows\FractionAdder.exe
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\FractionAdder\FractionAdder\bin\Debug\net6.0-windows\FractionAdder.deps.json
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\FractionAdder\FractionAdder\bin\Debug\net6.0-windows\FractionAdder.runtimeconfig.json
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\FractionAdder\FractionAdder\bin\Debug\net6.0-windows\FractionAdder.dll
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\FractionAdder\FractionAdder\bin\Debug\net6.0-windows\FractionAdder.pdb
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\FractionAdder\FractionAdder\obj\Debug\net6.0-windows\FractionAdder.csproj.GenerateResource.cache
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\FractionAdder\FractionAdder\obj\Debug\net6.0-windows\FractionAdder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\FractionAdder\FractionAdder\obj\Debug\net6.0-windows\FractionAdder.AssemblyInfoInputs.cache
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\FractionAdder\FractionAdder\obj\Debug\net6.0-windows\FractionAdder.AssemblyInfo.cs
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\FractionAdder\FractionAdder\obj\Debug\net6.0-windows\FractionAdder.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\FractionAdder\FractionAdder\obj\Debug\net6.0-windows\FractionAdder.dll
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\FractionAdder\FractionAdder\obj\Debug\net6.0-windows\refint\FractionAdder.dll
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\FractionAdder\FractionAdder\obj\Debug\net6.0-windows\FractionAdder.pdb
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\FractionAdder\FractionAdder\obj\Debug\net6.0-windows\FractionAdder.genruntimeconfig.cache
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\FractionAdder\FractionAdder\obj\Debug\net6.0-windows\ref\FractionAdder.dll
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\FractionAdder\FractionAdder\obj\Debug\net6.0-windows\FractionAdder.FRACTIONS.resources

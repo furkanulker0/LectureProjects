@@ -1,0 +1,16 @@
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\LabProject\LabProject\bin\Debug\net6.0-windows\LabProject.exe
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\LabProject\LabProject\bin\Debug\net6.0-windows\LabProject.deps.json
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\LabProject\LabProject\bin\Debug\net6.0-windows\LabProject.runtimeconfig.json
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\LabProject\LabProject\bin\Debug\net6.0-windows\LabProject.dll
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\LabProject\LabProject\bin\Debug\net6.0-windows\LabProject.pdb
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\LabProject\LabProject\obj\Debug\net6.0-windows\LabProject.Form1.resources
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\LabProject\LabProject\obj\Debug\net6.0-windows\LabProject.csproj.GenerateResource.cache
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\LabProject\LabProject\obj\Debug\net6.0-windows\LabProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\LabProject\LabProject\obj\Debug\net6.0-windows\LabProject.AssemblyInfoInputs.cache
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\LabProject\LabProject\obj\Debug\net6.0-windows\LabProject.AssemblyInfo.cs
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\LabProject\LabProject\obj\Debug\net6.0-windows\LabProject.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\LabProject\LabProject\obj\Debug\net6.0-windows\LabProject.dll
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\LabProject\LabProject\obj\Debug\net6.0-windows\refint\LabProject.dll
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\LabProject\LabProject\obj\Debug\net6.0-windows\LabProject.pdb
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\LabProject\LabProject\obj\Debug\net6.0-windows\LabProject.genruntimeconfig.cache
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\LabProject\LabProject\obj\Debug\net6.0-windows\ref\LabProject.dll

@@ -1,0 +1,16 @@
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\FamilyTree\FamilyTree\bin\Debug\net6.0-windows\FamilyTree.exe
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\FamilyTree\FamilyTree\bin\Debug\net6.0-windows\FamilyTree.deps.json
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\FamilyTree\FamilyTree\bin\Debug\net6.0-windows\FamilyTree.runtimeconfig.json
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\FamilyTree\FamilyTree\bin\Debug\net6.0-windows\FamilyTree.dll
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\FamilyTree\FamilyTree\bin\Debug\net6.0-windows\FamilyTree.pdb
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\FamilyTree\FamilyTree\obj\Debug\net6.0-windows\FamilyTree.Form1.resources
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\FamilyTree\FamilyTree\obj\Debug\net6.0-windows\FamilyTree.csproj.GenerateResource.cache
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\FamilyTree\FamilyTree\obj\Debug\net6.0-windows\FamilyTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\FamilyTree\FamilyTree\obj\Debug\net6.0-windows\FamilyTree.AssemblyInfoInputs.cache
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\FamilyTree\FamilyTree\obj\Debug\net6.0-windows\FamilyTree.AssemblyInfo.cs
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\FamilyTree\FamilyTree\obj\Debug\net6.0-windows\FamilyTree.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\FamilyTree\FamilyTree\obj\Debug\net6.0-windows\FamilyTree.dll
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\FamilyTree\FamilyTree\obj\Debug\net6.0-windows\refint\FamilyTree.dll
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\FamilyTree\FamilyTree\obj\Debug\net6.0-windows\FamilyTree.pdb
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\FamilyTree\FamilyTree\obj\Debug\net6.0-windows\FamilyTree.genruntimeconfig.cache
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\FamilyTree\FamilyTree\obj\Debug\net6.0-windows\ref\FamilyTree.dll

@@ -1,0 +1,16 @@
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\StudentGrade\StudentGrade\bin\Debug\net6.0-windows\StudentGrade.exe
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\StudentGrade\StudentGrade\bin\Debug\net6.0-windows\StudentGrade.deps.json
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\StudentGrade\StudentGrade\bin\Debug\net6.0-windows\StudentGrade.runtimeconfig.json
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\StudentGrade\StudentGrade\bin\Debug\net6.0-windows\StudentGrade.dll
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\StudentGrade\StudentGrade\bin\Debug\net6.0-windows\StudentGrade.pdb
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\StudentGrade\StudentGrade\obj\Debug\net6.0-windows\StudentGrade.Form1.resources
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\StudentGrade\StudentGrade\obj\Debug\net6.0-windows\StudentGrade.csproj.GenerateResource.cache
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\StudentGrade\StudentGrade\obj\Debug\net6.0-windows\StudentGrade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\StudentGrade\StudentGrade\obj\Debug\net6.0-windows\StudentGrade.AssemblyInfoInputs.cache
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\StudentGrade\StudentGrade\obj\Debug\net6.0-windows\StudentGrade.AssemblyInfo.cs
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\StudentGrade\StudentGrade\obj\Debug\net6.0-windows\StudentGrade.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\StudentGrade\StudentGrade\obj\Debug\net6.0-windows\StudentGrade.dll
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\StudentGrade\StudentGrade\obj\Debug\net6.0-windows\refint\StudentGrade.dll
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\StudentGrade\StudentGrade\obj\Debug\net6.0-windows\StudentGrade.pdb
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\StudentGrade\StudentGrade\obj\Debug\net6.0-windows\StudentGrade.genruntimeconfig.cache
+C:\Users\Furkan Ülker\OneDrive\Masaüstü\StudentGrade\StudentGrade\obj\Debug\net6.0-windows\ref\StudentGrade.dll
